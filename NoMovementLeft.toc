@@ -1,0 +1,24 @@
+## Interface: 120001, 120000
+
+## Title: No Movement Left
+## Notes: Displays a countdown when you are out of movement abilities
+## Version: @project-version@
+## Author: Swirl
+## IconTexture: Interface\AddOns\NoMovementLeft\Media\NML.png
+
+## X-Curse-Project-ID: 1453899
+## X-Wago-ID: qGYZeONg
+
+## Category: Combat
+## Category-deDE: Kampf
+## Category-esES: Combate
+## Category-esMX: Combate
+## Category-frFR: Combat
+## Category-itIT: Combattimento
+## Category-koKR: 전투
+## Category-ptBR: Combate
+## Category-ruRU: Бой
+## Category-zhCN: 战斗
+## Category-zhTW: 戰鬥
+
+Core.lua
